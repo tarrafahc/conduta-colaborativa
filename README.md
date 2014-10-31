@@ -36,3 +36,9 @@ __Princípio 3__ : _Som_
 - Existe um porém que, caso você esteja trabalhando som. E necessáriamente precisa ouvir ele. E por ventura você não tem fones de ouvido disponíveis. Nesse caso sem problemas. Mas se for no sentido de estar estudando, hackiando, algo que gera sonoridade. Caso contrário, volte ao item 1 do princípio do Som.
 
 - Se você marcou encontro no tarrafa, para alguma oficina que gere sonoridade, então você está livre do item 1. Pois você marcou oficina e estará ministrando a oficina nesse dia e horário. Então você deve hackear, gerando som ou não. Caso contrário volta ao item 1 do princípio do som.
+
+__Princípio 4__ : _Espaço_
+
+- Ocupe seu espaço no tarrafa, de maneira a considerar os outros membros. Da maneira que outras pessoas utilizarão o espaço físico, após você. O compartilhamento do espaço, requer que você lembre de guardar as coisas que utilizou, organizadamente, no local onde é apropriado.
+
+- Na existência de um evento no tarrafa hackerspace, onde as pessoas ficam trabalhando até tarde. E depois ficaram cansadas demais para reorganizar por inteiro o tarrafa. Então nesse caso tudo bem, deixar para outro dia. Como já se sabe de ante mão que outro dia ninguém vai reorganizar nada. Então o mesmo mutirão que estava trabalhando no tarrafa hackerspace até tarde, deverá guardar tudo e reorganizar (permitimos léves tolerâncias, de organização).

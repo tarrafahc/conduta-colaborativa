@@ -28,3 +28,7 @@ __Princípio 2__ : _Chave_
 - A chave de acesso ao hackerspace é garantida aos membros associados. Que frequentam o hackerspace constântemente.
 
 - Não fazer uma cópia da chave. Sem decisão em conjunto (dos membros).
+
+__Princípio 2__ : _Som_
+
+- Cuide o volume do som que você colocar. De preferência use fones de ouvido. Se você ver outras pessoas focadas trabalhando em alguma coisa. É legal não atrapalhar com música alta.

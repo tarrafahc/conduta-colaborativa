@@ -29,7 +29,7 @@ __Princípio 2__ : _Chave_
 
 - Não fazer uma cópia da chave. Sem decisão em conjunto (dos membros).
 
-__Princípio 2__ : _Som_
+__Princípio 3__ : _Som_
 
 - Cuide o volume do som que você colocar. De preferência use fones de ouvido. Se você ver outras pessoas focadas trabalhando em alguma coisa. É legal não atrapalhar com música alta.
 

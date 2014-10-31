@@ -42,3 +42,7 @@ __Princípio 4__ : _Espaço_
 - Ocupe seu espaço no Tarrafa, de maneira a considerar os outros membros. Da maneira que outras pessoas utilizarão o espaço físico, após você. O compartilhamento do espaço, requer que você lembre de guardar as coisas que utilizou, organizadamente, no local onde é apropriado.
 
 - Na existência de um evento no Tarrafa Hackerspace, onde as pessoas ficam trabalhando até tarde. E depois ficaram cansadas demais para reorganizar por inteiro o Tarrafa. Então nesse caso tudo bem, deixar para outro dia. Como já se sabe de ante mão que outro dia ninguém vai reorganizar nada. Então o mesmo mutirão que estava trabalhando no Tarrafa Hackerspace até tarde, deverá guardar tudo e reorganizar (permitimos léves tolerâncias, de organização).
+
+- Você é livre para utilizar o espaço. Mas essa liberdade não te da o direito de fazer o que bem entender sobre o local, materíais, elementos que compôem o nosso Hackerspace. Da maneira que os componentes que pertecem ao Tarrafa deverão ser preservados. Lembre-se que outras pessoas irão utilizar o espaço após você.
+
+- As caixas de materiais com nomes dos donos. Geralmente caixas transparêntes nas prateleiras. Não são livres para serem utilizadas, nem os elementos contidos dentro delas. Pois elas pertecem à alguém.

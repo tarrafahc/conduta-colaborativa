@@ -32,3 +32,7 @@ __Princípio 2__ : _Chave_
 __Princípio 2__ : _Som_
 
 - Cuide o volume do som que você colocar. De preferência use fones de ouvido. Se você ver outras pessoas focadas trabalhando em alguma coisa. É legal não atrapalhar com música alta.
+
+- Existe um porém que, caso você esteja trabalhando som. E necessáriamente precisa ouvir ele. E por ventura você não tem fones de ouvido disponíveis. Nesse caso sem problemas. Mas se for no sentido de estar estudando, hackiando, algo que gera sonoridade. Caso contrário, volte ao item 1 do princípio do Som.
+
+- Se você marcou encontro no tarrafa, para alguma oficina que gere sonoridade, então você está livre do item 1. Pois você marcou oficina e estará ministrando a oficina nesse dia e horário. Então você deve hackear, gerando som ou não. Caso contrário volta ao item 1 do princípio do som.
